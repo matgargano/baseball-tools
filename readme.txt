@@ -1,4 +1,6 @@
-Baseball Tools Player Library v. 0.003 pre-beta by Matthew Gargano
+Baseball Tools Player Library 
+v. 0.003 pre-beta 
+by Matthew Gargano <mgargano@gmail.com>
 =============
 
 PHP Library of functions that provide access to the Baseball-Databank 
