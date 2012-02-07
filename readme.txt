@@ -1,5 +1,5 @@
 Baseball Tools Player Library v. 0.003 pre-beta by Matthew Gargano
-
+=============
 
 PHP Library of functions that provide access to the Baseball-Databank 
 (www.baseball-databank.org) and succeeding databases (as of this release 
@@ -12,8 +12,8 @@ Installation
 * Explode package to your local machine.
 * Enter your database information in /baseball-tools/lib/lib.php.
 * Upload the folder /baseball-tools/ into your web project. (n.b. this should include your updated lib.php)
-*	Include the package's "/path/to/baseball-tools/connect.php" (e.g. require_once("baseball-tools/connect.php");)
-*	You're done! If you receive an error verify you entered correct database credentials.
+* Include the package's "/path/to/baseball-tools/connect.php" (e.g. require_once("baseball-tools/connect.php");)
+* You're done! If you receive an error verify you entered correct database credentials.
 
 Usage
 
