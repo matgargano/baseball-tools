@@ -1,5 +1,5 @@
 Baseball Tools Player Library 
-v. 0.003 pre-beta 
+v. 0.003 alpha-pre-beta 
 by Matthew Gargano <mgargano@gmail.com>
 =============
 
