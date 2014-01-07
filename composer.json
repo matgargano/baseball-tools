@@ -1,0 +1,30 @@
+{
+    "name": "mgargano/baseball-tools",
+    "description": "Composer package that parses Rotoworld's DOM for news stories",
+    "keywords": ["baseball", "baseball data", "sabermetrics"],
+    "homepage" : "http://matgargano.com",
+    "type": "library",
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "Mat Gargano",
+            "email": "mgargano@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "require-dev": {
+        "mgargano/simplehtmldom":"dev-master"
+    },
+    "autoload": {
+        "psr-0": {
+            "Rotoworld": "src/"
+        },
+        "files": [
+            "src/Class-baseball-tools-helper.php",
+            "src/Class-baseball-tools.php",
+        ]
+    }
+    
+}
