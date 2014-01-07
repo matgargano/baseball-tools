@@ -1,6 +1,6 @@
 {
     "name": "mgargano/baseball-tools",
-    "description": "Composer package that parses Rotoworld's DOM for news stories",
+    "description": "PHP wrapper library that provides access to the Baseball-Databank (www.baseball-databank.org) and succeeding databases",
     "keywords": ["baseball", "baseball data", "sabermetrics"],
     "homepage" : "http://matgargano.com",
     "type": "library",
