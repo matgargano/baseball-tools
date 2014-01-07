@@ -2,7 +2,7 @@
     "name": "mgargano/baseball-tools",
     "description": "PHP wrapper library that provides access to the Baseball-Databank (www.baseball-databank.org) and succeeding databases",
     "keywords": ["baseball", "baseball data", "sabermetrics"],
-    "homepage" : "http://matgargano.com",
+    "homepage" : "http://matgargano.com/projects/baseball-tools/",
     "type": "library",
     "license": "GPL-3.0+",
     "authors": [
